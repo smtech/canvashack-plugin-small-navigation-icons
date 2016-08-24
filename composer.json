@@ -1,0 +1,13 @@
+{
+    "name": "canvashack/plugin-small-navigation-icons",
+    "description": "Show global navigation icons at a smaller size",
+    "type": "canvashack-plugin",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Seth Battis",
+            "email": "sethbattis@stmarksschool.org"
+        }
+    ],
+    "require": {}
+}

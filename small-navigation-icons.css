@@ -1,0 +1,7 @@
+#menu .menu-item-icon-container {
+    height: 18px;
+}
+
+#menu .menu-item-icon-container svg, #menu .menu-item-icon-container .ic-avatar {
+    height: 16px;
+}
