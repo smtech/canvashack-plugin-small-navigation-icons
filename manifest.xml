@@ -16,7 +16,7 @@
                 <include>
                     <page>
                         <type>regex</type>
-                        <pattern>/.*/pattern>
+                        <pattern>/.*/</pattern>
                     </page>
                 </include>
             </pages>
