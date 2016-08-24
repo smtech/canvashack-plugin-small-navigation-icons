@@ -1,7 +1,21 @@
+/* wrapper for icons */
 #menu .menu-item-icon-container {
     height: 18px;
 }
 
-#menu .menu-item-icon-container svg, #menu .menu-item-icon-container .ic-avatar {
+/* icons themselves */
+#menu .menu-item-icon-container svg,
+#menu .menu-item svg,
+#menu .menu-item-icon-container .ic-avatar,
+#menu .menu-item-icon-container .ic-avatar img {
     height: 16px;
+}
+
+/* avatar on account link */
+#menu .menu-item-icon-container .ic-avatar,
+#menu .menu-item-icon-container .ic-avatar img {
+    width: 16px;
+}
+#menu .menu-item-icon-container .ic-avatar img {
+    vertical-align: top;
 }
